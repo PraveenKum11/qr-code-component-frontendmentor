@@ -27,6 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Live Site URL: [Live Site]()
 
+## My Process
 
 ### Built with
 
